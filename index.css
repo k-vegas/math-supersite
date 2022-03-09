@@ -1,0 +1,27 @@
+.category {
+    text-decoration: underline;
+}
+
+#add {
+    color: red;
+}
+
+#sub {
+    color: orange;
+}
+
+#mul {
+    color: #ffC30b;
+}
+
+#div {
+    color:green;
+}
+
+#fra {
+    color: blue;
+}
+
+#dec {
+    color: purple;
+}
